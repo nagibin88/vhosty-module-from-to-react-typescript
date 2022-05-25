@@ -8,5 +8,5 @@ export interface Point {
 
 export interface MapsPoint {
     title: string;
-	position: [number, number]
+    position: [number, number];
 }
